@@ -21,6 +21,15 @@ To use Git to download, paste this command in your terminal client:
 git clone https://github.com/VyomTBM/FutureTBM-OS.git
 ```
 
+## Credits
+This project uses **external libraries and scripts.** Here are the credits:
+
+* **[Tailwind CSS](https://tailwindcss.com/)**: For UI styling in general
+* **[Marked.JS](https://github.com/markedjs/marked)**: For Markdown editor
+
+## Prompt
+The prompt used to create this project is the [Prompt.md](Prompt.md) file
+
 ## Future plans
 This repository will **not receive many commits**, but I am thinking of using **integrating real DOS functionality via JS-DOS.**
 
